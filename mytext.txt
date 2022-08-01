@@ -1,0 +1,3 @@
+Hey this is the text file
+this is line 2
+also got line 3
